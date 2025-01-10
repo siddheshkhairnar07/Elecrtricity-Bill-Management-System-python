@@ -18,8 +18,8 @@ The Electricity Bill Management System is an application developed using python 
 - **Python:** Programming language for developing the system.
 - **Flask:** Web framework for building RESTful APIs to handle customer registration, bill calculation, and history retrieval.
 - **SQLite:** Lightweight database for storing customer information and bill records.
-- **Tesseract OCR (via pytesseract): **Extracts meter readings from images of electricity meters.
-- **Pillow: **Image processing library used to manipulate images before passing them to Tesseract OCR.
+- **Tesseract OCR (via pytesseract):** Extracts meter readings from images of electricity meters.
+- **Pillow:** Image processing library used to manipulate images before passing them to Tesseract OCR.
 ## Guidance:
 Project created under the guidance of **Sir Aniruddh Gaikwad**.
 
